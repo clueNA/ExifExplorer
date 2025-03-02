@@ -6,6 +6,9 @@
 
 ExifExplorer is a sophisticated image metadata analysis tool built with Python and Streamlit. This application provides a comprehensive view of image metadata, including EXIF data, file information, and other embedded metadata, presented in a clean and intuitive interface.
 
+## 🌐 Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://exifexplorer.streamlit.app/)
+
 ## 🌟 Features
 
 - **Complete Metadata Analysis**
