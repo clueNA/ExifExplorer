@@ -95,7 +95,7 @@ def main():
             image = Image.open(io.BytesIO(image_bytes))
             
             with col1:
-                st.image(image, caption="Uploaded Image", use_column_width=True)
+                st.image(image, caption="Uploaded Image", use_container_width=True)
                 
                 # Display file metadata
                 st.subheader("File Information")
